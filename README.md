@@ -17,3 +17,9 @@ Ready to run in production? Please [check our deployment guides](https://hexdocs
   * Docs: https://hexdocs.pm/phoenix
   * Forum: https://elixirforum.com/c/phoenix-forum
   * Source: https://github.com/phoenixframework/phoenix
+
+## Tailwind Setup
+
+Tailwind CSS was setup according to this article: 
+
+https://pragmaticstudio.com/tutorials/adding-tailwind-css-to-phoenix
